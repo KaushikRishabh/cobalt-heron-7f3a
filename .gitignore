@@ -12,3 +12,5 @@ frontend/dist/
 .DS_Store
 *.log
 coverage/
+
+*.tsbuildinfo
