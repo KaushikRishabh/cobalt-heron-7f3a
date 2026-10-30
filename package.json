@@ -1,0 +1,8 @@
+{
+  "name": "wind-decision-pilot",
+  "private": true,
+  "scripts": {
+    "dev": "backend/.venv/bin/python dev.py",
+    "build": "npm --prefix frontend ci && npm --prefix frontend run build"
+  }
+}
